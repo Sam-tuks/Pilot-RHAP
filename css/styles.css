@@ -1,4 +1,24 @@
 .map {
 	margin: auto;
-	width : 50%;
+	width:28%;
 }
+
+
+.top {
+	display:flex;
+	margin:auto;
+	justify-content: center;
+}
+
+.top > form {
+	padding-top:100px;
+	margin-left: 100px;
+
+}
+
+.top > h1 {
+	padding-top:60px;
+	margin-bottom:10px;
+	margin-right:100px;
+}
+
